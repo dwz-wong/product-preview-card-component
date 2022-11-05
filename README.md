@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Responsive Product Preview Card Component]()
+- Solution URL: [Responsive Product Preview Card Component](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-TdMRwSXIVl)
 - Live Site URL: [Responsive Product Preview Card Component](https://dwz-wong.github.io/product-preview-card-component/)
 
 ## My process
